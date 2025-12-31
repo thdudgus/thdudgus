@@ -14,12 +14,12 @@
 ---
 
 ### 🦾 Skills
-**Lang and Frameworks**
+**Lang and Frameworks**      
 ![Flutter](https://img.shields.io/badge/flutter-02569B.svg?&style=for-the-badge&logo=flutter&logoColor=white) ![Vue.js](https://img.shields.io/badge/vue.js-4FC08D.svg?&style=for-the-badge&logo=vuedotjs&logoColor=white) 
 
 ![Dart](https://img.shields.io/badge/dart-0175C2.svg?&style=for-the-badge&logo=dart&logoColor=white) ![Python](https://img.shields.io/badge/python-3776AB.svg?&style=for-the-badge&logo=python&logoColor=white) ![C++](https://img.shields.io/badge/C++-000000.svg?&style=for-the-badge) ![C](https://img.shields.io/badge/c-A8B9CC.svg?&style=for-the-badge&logo=c&logoColor=white) 
 
-**Infra and Tools**
+**Infra and Tools**     
 ![Google Analytics](https://img.shields.io/badge/googleanalytics-E37400.svg?&style=for-the-badge&logo=googleanalytics&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-FFCA28.svg?&style=for-the-badge&logo=firebase&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?&style=for-the-badge&logo=mysql&logoColor=white) 
 
 ---
